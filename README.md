@@ -13,13 +13,31 @@
 </p>
 
 <h3 align="center">
-    Ready Use Metod
+    Gunakan Metode Ini Jika Anda Deploy Dengan Heroku
 </h3>
 
 <p align="center">
-    A Support Group And Ready Running This Bot Music Telegram On Heroku!<br>
-    <a href="https://t.me/FlicksMusicBot"> FlicksMusicBot </a> |
-    <a href="https://t.me/FlicksRobotSupport"> FlicksSupport </a>
+    <b>Jika Button Deploy To Heroku Eror Silahkan Kalian Fork Repository Ini Lalu Kalian Ubah Link Deploy Tersebut, Seperti Contoh Dibawah</b>
+
+                           Dari Link Di Bawah Ini
+    https://dashboard.heroku.com/new?template=https://github.com/ridho17-ind/SkyzoMusicBot
+                           Ubah Seperti Link Di Bawah Ini
+    https://dashboard.heroku.com/new?template=https://github.com/username-github-kamu/SkyzoMusicBot
+</p>
+
+<h2 align="center">
+   Cara Ubah app.json
+</h2>
+
+    Setelah kalian ubah link Deploy seperti diatas
+    Sekarang kalian harus mengubah app.json
+    Yang harus diubah di app.json adalah Link Repository dari namanya ridho17-ind ke nama github kamu
+                       Contoh
+    https://github.com/ridho17-ind/SkyzoMusicBot
+    Lalu Kalian Ubah Ke
+    https://github.com/username-github-kalian/SkyzoMusicBot
+
+
 </p>
 
 <h2 align="center">
@@ -48,8 +66,9 @@
 
 <p align="center">
 <a href="https://railway.app/new/template?template=https://github.com/ridho17-ind/SkyzoMusicBot&envs=BOT_TOKEN%2CAPI_ID%2CAPI_HASH%2CSESSION_NAME%2CSUDO_USERS%2COWNER_ID%2CDURATION_LIMIT%2CCHANNEL%2CMONGO_DB_URI%2CLOG_GROUP_ID%2CASS_ID%2CGROUP&optionalEnvs=CHANNEL%2CGROUPCSUPPORT_CHANNEL%2CMONGO_DB_URI%2CLOG_GROUP_ID%2CASSISTANT_PREFIX%2CMUSIC_BOT_NAME%2CSUPPORT_GROUP&optionalEnvs=SUPPORT_CHANNEL%2CSUPPORT_GROUP"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="252""/</a>
-<a href="https://dashboard.heroku.com/new?template=https://github.com/ridho17-ind/Skyzo-Deploy-2"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
+<a href="https://dashboard.heroku.com/new?template=https://github.com/ridho17-ind/Skyzo-Deploy-8"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
 <a href="https://telegram.dog/XTZ_HerokuBot?start=cmlkaG8xNy1pbmQvU2t5em9NdXNpY0JvdCBtYWlu"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="250""/</a>  
+
 
 </p>
 
